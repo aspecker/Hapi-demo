@@ -1,0 +1,24 @@
+{
+  "name": "Hapi-demo",
+  "version": "1.0.0",
+  "description": "* GOAL: Building a demo server using Hapi instead of express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aspecker/Hapi-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aspecker/Hapi-demo/issues"
+  },
+  "homepage": "https://github.com/aspecker/Hapi-demo#readme",
+  "dependencies": {
+    "hapi": "^17.5.1"
+  }
+}
